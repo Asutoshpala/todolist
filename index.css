@@ -1,0 +1,7 @@
+form{
+  display: flex;
+  gap: 10px;
+}
+button{
+  background-color: pink;
+}
